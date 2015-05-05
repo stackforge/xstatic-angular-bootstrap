@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Matthias Runge <mrunge@redhat.com>
+Workflow+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+2: Doug Fish <drfish@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 05 May 2015 15:07:04 +0000
+Reviewed-on: https://review.openstack.org/180082
+Project: stackforge/xstatic-angular-bootstrap
+Branch: refs/heads/master

@@ -1,0 +1,9 @@
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Code-Review+2: Rob Cresswell <robert.cresswell@outlook.com>
+Workflow+1: Rob Cresswell <robert.cresswell@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 31 Aug 2016 20:57:54 +0000
+Reviewed-on: https://review.openstack.org/361503
+Project: openstack/xstatic-angular-bootstrap
+Branch: refs/heads/master

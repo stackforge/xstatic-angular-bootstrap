@@ -1,0 +1,9 @@
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Code-Review+2: Ivan Kolodyazhny <e0ne@e0ne.info>
+Workflow+1: Ivan Kolodyazhny <e0ne@e0ne.info>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 17 Feb 2020 11:32:04 +0000
+Reviewed-on: https://review.opendev.org/703562
+Project: openstack/xstatic-angular-bootstrap
+Branch: refs/heads/master
